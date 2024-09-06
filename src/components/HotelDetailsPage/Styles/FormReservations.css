@@ -1,0 +1,28 @@
+.reservation__form-container{
+    padding-bottom: 3em;
+    .reservation__title{
+        font-size: 1.4em;
+        padding-bottom: 1em;
+        color: #fa4040;
+    }
+
+    .reservation__form-labels{
+        justify-content: start;
+        gap: 2em;
+        padding-bottom: 2em;
+        .reservation__form-label{
+            flex-direction: column;
+            align-items: start;
+            gap: 0.8em;
+    
+        }
+    }
+    .reservation__form-btn{
+        display: block;
+        color: #000;
+        background-color: #fa4040;
+        padding: 0.4em;
+        font-weight: 700;
+        border-radius: .5em ;
+    }
+}

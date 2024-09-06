@@ -1,0 +1,33 @@
+.hoteldetails{
+    padding: 8em 1.5em;
+    .hoteldetails__name{
+        font-size: 1.8em;
+        font-weight: 700;
+
+    }
+    .hoteldetails__rating{
+        font-size: 1.5em;
+        font-weight: 500;
+    }
+
+    .hoteldetails__container{
+        padding: 2em;
+        gap: 4em;
+        flex-wrap: wrap;
+    }
+
+    .hoteldetails__location{
+        font-size: 1.2em;
+    }
+
+    .hoteldetails__addres{
+        justify-content: start;
+        font-size: 1.2em;
+        padding-bottom: 2em;
+    }
+
+    .hoteldetails__description-text{
+        font-size: 1.2em;
+        padding-bottom: 3em;
+    }
+}

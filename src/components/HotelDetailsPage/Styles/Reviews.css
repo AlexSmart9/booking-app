@@ -1,0 +1,20 @@
+.reviews__comments{
+    padding-bottom: 2em;
+    .reviews__comments-title{
+        font-size: 1.4em;
+        padding-bottom: 1em;
+    }
+
+    .reviews__comments-container{
+        flex-direction: column;
+        align-items: start;
+        gap: 1em;
+        padding-bottom: 0.5em;
+    }
+
+    .reviews__btn{
+        font-size: 1.2em;
+        font-weight: 500;
+        color: #fa4040;
+    }
+}

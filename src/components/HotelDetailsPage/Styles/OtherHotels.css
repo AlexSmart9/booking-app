@@ -1,0 +1,11 @@
+.otherhotels__title{
+    font-size: 1.4em;
+    padding-bottom: 1em;
+    .otherhotels__name{
+        color: #fa4040;
+    }
+}
+
+.otherhotels__container{
+    gap: 1em;
+}
